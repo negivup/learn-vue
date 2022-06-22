@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "vue.volar",
+    "octref.vetur",
+    "vue.vscode-typescript-vue-plugin",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "syler.sass-indented",
+    "esbenp.prettier-vscode",
+    "christian-kohler.path-intellisense",
+    "eg2.vscode-npm-script",
+    "pkief.material-icon-theme",
+    "ritwickdey.liveserver",
+    "eamodio.gitlens",
+    "donjayamanne.githistory",
+    "dbaeumer.vscode-eslint",
+    "tobermory.es6-string-html",
+    "editorconfig.editorconfig",
+    "rokoroku.vscode-theme-darcula"
+  ]
+}
